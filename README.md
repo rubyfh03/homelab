@@ -1,4 +1,4 @@
-# RubyLab
+# Ruby's Lab
 
 My personal homelab built while studying Computer Science.
 
